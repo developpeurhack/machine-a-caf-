@@ -1,2 +1,3 @@
-# creation de machine a café " Programmation orienté objet "
-## 4 fichier ;
+#  creation de machine a café " Programmation orienté objet "
+##  4 fichier ;
+###  .gitignore ;
